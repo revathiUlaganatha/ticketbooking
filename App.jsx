@@ -1,5 +1,5 @@
 import React from 'react'
-import MovieBooking from './component/MovieBooking'
+import MovieBooking from './MovieBooking'
 import "./App.css"
 
 function App()
